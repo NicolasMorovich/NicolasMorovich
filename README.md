@@ -20,6 +20,6 @@
 
 ### 📬 Connect & Resume
 - 📄 [View my Resume/CV](#)
-- 💼 [LinkedIn](#https://www.linkedin.com/in/nicolas-morovich/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-morovich/)
 - 📧 [Email Me](mailto:morovichnicolas@gmail.com)
 
