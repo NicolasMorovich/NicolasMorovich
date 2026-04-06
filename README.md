@@ -22,7 +22,7 @@ I am a student in CS at university.
 
 ### Knowledge
 
-[![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#) [![C Badge](https://img.shields.io/badge/-C/C++-007acc?style=for-the-badge&labelColor=black&logo=.net&logoColor=007acc)](#) [![C Badge](https://img.shields.io/badge/-Assembly-9212B3?style=for-the-badge&labelColor=black&logo=assemblyscript&logoColor=9212B3)](#) [![Java Badge](https://img.shields.io/badge/-Java-bd2200?style=for-the-badge&labelColor=black&logo=java&logoColor=bd2200)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#) [![C Badge](https://img.shields.io/badge/-C/C++-007acc?style=for-the-badge&labelColor=black&logo=.net&logoColor=007acc)](#) [![C Badge](https://img.shields.io/badge/-Assembly-9212B3?style=for-the-badge&labelColor=black&logo=assemblyscript&logoColor=9212B3)](#) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 
 ### My Resume
 - :paperclip: [My Resume/CV]
