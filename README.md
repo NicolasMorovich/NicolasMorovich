@@ -17,7 +17,7 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge)](#)
-[![Scala](https://img.shields.io/badge/Scala-316192?style=for-the-badge)](#)
+[![Scala](https://img.shields.io/badge/Scala-DE3423?style=for-the-badge)](#)
 
 ### 📬 Connect & Resume
 - 📄 [View my Resume/CV](#)
