@@ -15,8 +15,10 @@
 [![Assembly](https://img.shields.io/badge/Assembly-9212B3?style=for-the-badge)](#)
 [![Java/C++](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge)](#)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 📬 Connect & Resume
 - 📄 [View my Resume/CV](#)
